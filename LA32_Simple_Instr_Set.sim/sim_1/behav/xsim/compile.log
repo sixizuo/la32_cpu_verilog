@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/GR_REG_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GR_REG_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GR_PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/ShiftLeft_2b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftLeft_2b
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/SignExtend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/aluctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aluctr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/mainctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mainctr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/wrctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wrctr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/src/cpu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/sim/cpu_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/la32_cpu_verilog/LA32_Simple_Instr_Set.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
